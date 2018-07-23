@@ -7,7 +7,7 @@ while True:
 		print ("Kindly make sure you've entered exactly 5 numbers, or make sure that there is exactly one space between the numbers. Don't put a space between the first and last number")
 		continue
 	if var1 < 0 or var2 < 0 or var3 < 0 or var4 < 0 or var5 < 0:
-		print("Please don't use negaive numbers")
+		print("Please don't use negative numbers")
 		continue
 	else:
 		#Printing the 5 inputs separated by a single space.
