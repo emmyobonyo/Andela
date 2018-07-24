@@ -16,7 +16,7 @@ while True:
 		input2 = [str(a) for a in input1]
 		print (' '.join(input2))
 		break
-if 1 <= var1 <= 10**9 and 1 <= var2 <= 10**9:
+if 1 <= var1 <= 10**9 and 1 <= var2 <= 10**9 and 1 <= var3 <= 10**9 and 1 <= var4 <= 10**9 and 1 <= var5 <= 10**9:
 	#Making sure the input values are in the acceptable range
 	a = var1 + var2 + var3 + var4
 	b = var1 + var2 + var3 + var5
